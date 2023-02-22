@@ -1,5 +1,5 @@
-# Sram-controller-design-based-on-AHB-bus
-基于mc生成sram的经典AHB-SRAM设计
+# 基于mc生成sram的经典AHB-SRAM设计
+
 ### 基于 AHB 的 sram 设计框架图显示如下:
 
 ![ahb_sramc_control](https://user-images.githubusercontent.com/71707557/185911793-8c65b49e-e37d-4d1d-b745-6e69bc872b13.png)
